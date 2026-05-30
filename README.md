@@ -459,7 +459,7 @@ AI Engineer • Full Stack Developer • Creative Technologist
 ```text
 GitHub   : https://github.com/Iqra-Fatima-07
 LinkedIn : https://linkedin.com/in/iqra-fatima007
-Portfolio: 
+Portfolio: iqra-fatima-portfolio.netlify.app
 ```
 
 ---
